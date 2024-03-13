@@ -17,7 +17,7 @@ This is a minor project developed for the 5th semester of Computer Science Engin
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hospital-management.git
+   git clone https://github.com/yourusername/hospital-management.git](https://github.com/adity3902/Hospital-Management-System.git
    ```
 2. Navigate to the project directory:
    ```bash
